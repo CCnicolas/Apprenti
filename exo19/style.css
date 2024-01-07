@@ -1,0 +1,19 @@
+
+  body{
+    background-color: black;
+  }
+  #meme img{
+    border: 5px solid white;
+    display: block;
+    margin: auto;
+    color: white;  
+  }
+  #meme h1{
+    font-family: 'Libre Baskerville';
+    color: white;
+    text-align: center;
+  }
+  #meme p{
+    color: white;
+    text-align: center;
+  }
